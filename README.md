@@ -26,7 +26,7 @@ Este repositório contém um script em Python para capturar mensagens de um grup
    git clone https://github.com/seu_usuario/telegram-to-whatsapp.git
    cd telegram-to-whatsapp
    ```
-2. 
+2. Instale as dependências:
   ```bash
   pip install telethon pyperclip pyautogui
-```
+  ```
