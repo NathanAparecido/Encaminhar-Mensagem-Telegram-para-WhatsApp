@@ -67,6 +67,3 @@ Este repositório contém um script em Python para capturar mensagens de um grup
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar PRs com melhorias.
 
-## Licença
-
-Este projeto é licenciado sob a MIT License.
