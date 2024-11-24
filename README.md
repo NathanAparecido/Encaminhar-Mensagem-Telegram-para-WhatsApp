@@ -1,4 +1,7 @@
 # Encaminhar Mensagem grupo Telegram para grupo WhatsApp
+<p align="center">
+    <img windth="470" src="icon/whatsapp-and-telegram-getting-familiar-with-each.webp"
+      </p>
 
 Este repositório contém um script em Python para capturar mensagens de um grupo no Telegram e enviá-las automaticamente para um grupo específico no WhatsApp utilizando automação com `Telethon` e `PyAutoGUI`.
 
