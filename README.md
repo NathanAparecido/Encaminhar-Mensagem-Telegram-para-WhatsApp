@@ -1,4 +1,4 @@
-# Encaminhar Mensagem grupo Telegram para grupo WhatsApp
+# Encaminhar Mensagem de grupo Telegram para grupo de WhatsApp
 <p align="center">
     <img windth="470" src="icon/whatsapp-and-telegram-getting-familiar-with-each.webp"
       </p>
