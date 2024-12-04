@@ -5,12 +5,12 @@ import time
 import asyncio
 
 # Substitua as informações abaixo com as suas credenciais do Telegram
-api_id = '25019626'
-api_hash = 'eb492c6043ad31d7337aab9531b39e8d'
-phone_number = '+553799163169'
+api_id = '25011234'
+api_hash = 'eb492c6043ad31d1234aab9123439e8d'
+phone_number = '+5537912341234'
 
 # Substitua "grupo_telegram_id" pelo ID do grupo do Telegram de onde você deseja obter mensagens
-grupo_telegram_id = -954897799  # Substitua pelo ID do seu grupo
+grupo_telegram_id = -45676578  # Substitua pelo ID do seu grupo
 
 # Substitua "nome_grupo_whatsapp" pelo nome do grupo no WhatsApp
 nome_grupo_whatsapp = "monitoramento"
